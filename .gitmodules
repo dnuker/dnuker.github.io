@@ -1,3 +1,6 @@
 [submodule "qr-code"]
 	path = qr-code
 	url = https://github.com/dnuker/qr-code.git
+[submodule "stats-preview"]
+	path = stats-preview
+	url = https://github.com/dnuker/stats-preview.git
