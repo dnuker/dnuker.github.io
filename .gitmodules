@@ -5,3 +5,6 @@
 [submodule "stats-preview"]
 	path = stats-preview
 	url = https://github.com/dnuker/stats-preview.git
+[submodule "3-column-preview-card"]
+	path = 3-column-preview-card
+	url = https://github.com/dnuker/3-column-preview-card
