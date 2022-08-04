@@ -8,3 +8,6 @@
 [submodule "3-column-preview-card"]
 	path = 3-column-preview-card
 	url = https://github.com/dnuker/3-column-preview-card
+[submodule "new-stats-preview"]
+	path = new-stats-preview
+	url = https://github.com/dnuker/new-stats-preview
