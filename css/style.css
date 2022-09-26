@@ -5,9 +5,11 @@
 body{
   color:white;
   background-color:black;
-  margin: 200px auto;
+  margin: 20% 20%;
 }
-href{
+a{
   text-decoration:none;
+}
+a:hover{
   color:yellow;
 }
